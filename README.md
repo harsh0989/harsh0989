@@ -72,7 +72,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/harsh-mangukiya-5b8737208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/harsh0989/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/harsh_0989/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers

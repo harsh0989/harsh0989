@@ -1,12 +1,11 @@
 <p>
-<p href="#" align='center'><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="200px" width='250px'/></p>
 <h1 align="center">Hi , I'm Harsh Mangukiya</h1>
 </p>
 
 
 <h2 align='left'> 🙋🏻‍♂️About Me </h2>
 
-- 🔭 I’m currently in **2nd Year Computer Engineering** at **[Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/)**
+- 🔭 I have graduated from **[Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/)**
 
 - 🌱 I’m currently learning **AI ML**
 

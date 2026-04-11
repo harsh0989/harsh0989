@@ -92,3 +92,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mangukiya-5b8737208/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmangukiya5005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-00FF88?style=for-the-badge&logo=portfolio&logoColor=black)](https://harshmangukiya-portfolio.netlify.app/)
+

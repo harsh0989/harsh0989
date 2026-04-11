@@ -22,7 +22,9 @@
 - Deep-diving into ML, NLP & multi-agent AI systems at USC
 - Building full-stack apps with React, Next.js and Node.js
 - Exploring LLM fine-tuning and real-world AI deployment
-
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=harsh0989&label=Profile%20views&color=0e75b6&style=flat"
+    alt="harshmangukiya" /> 
+</p>
 ---
 
 ## 🛠 Tech Stack

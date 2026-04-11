@@ -1,96 +1,92 @@
-<p>
-<h1 align="center">Hi , I'm Harsh Mangukiya</h1>
+<h1 align="center">Hi, I'm Harsh Mangukiya 👋</h1>
+<p align="center">
+ I'm a CS grad student at USC who builds things that actually ship. I'm currently seeking 2026 Summer Internship opportunities. I've taken ML pipelines from hackathon whiteboards to national wins, written the backend powering oncologist workflows across 60+ cancer types, and patented an IoT device that pulls drinking water out of thin air. I like hard problems, fast feedback loops, and code that means something.
 </p>
 
-
-<h2 align='left'> 🙋🏻‍♂️About Me </h2>
-
-- 🔭 I have graduated from **[Dwarkadas J. Sanghvi College of Engineering](https://www.djsce.ac.in/)**
-
-- 🌱 I’m currently learning **AI ML**
-
-- 💻 I’m looking to collaborate on **Web Projects**
-
-<br>
-<h2>🚀 Languages : </h2>
-<p align="left">
-<a style="padding-right:8px;" href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.w3schools.com/c/" target="_blank"> <img src="https://img.icons8.com/color/2x/c-programming.png" height='50px'/> </a>
-    <a style="padding-right:8px;" href="https://www.w3schools.com/java/default.asp" target="_blank"> <img src="https://img.icons8.com/nolan/2x/java-coffee-cup-logo.png" height='50px'/> </a>
-    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-</p>
-<br>
-<h2>🚀 FrontEnd Development and Design : </h2>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<a href="https://mui.com/" target="_blank"> <img src="https://bitsrc.imgix.net/3b69976526d31a20a1fd238f5a32a704cf437dd6.png" height='40px'/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png?sanitize=false" alt="tailwind" height="45"/> </a>
-</p>
-<br>
-<h2>🚀 Tools & Softwares :  </h2>
-<p align="left">
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a> 
-    <a style="padding-right:8px;" href="https://atom.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="45" height="45"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" height='40px'/> </a>
-</p>
-    <!-- <a style="padding-right:8px;" href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
-    
-    
-<br/>
-
-
-
-## 📊 My Github Stats
-<p align="left">
-    <a href="#">
-        <img alt="Harsh Mangukiya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0989&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-    <a href="#"><img alt="Harsh Mangukiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harsh0989&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="#"><img alt="Harsh Mangukiya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0989&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="#"><img alt="Harsh Mangukiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh0989&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/harsh-mangukiya-5b8737208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/harsh_0989/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<div align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
+<p align="center">
+  <b>M.S. Computer Science @ USC</b> &nbsp;·&nbsp; Full Stack &nbsp; & &nbsp; AI/ML Developer &nbsp;
 </p>
 
-## ❤ Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=harsh0989">
-</a> -->
-<a href="#"><img src="https://img.shields.io/github/followers/harsh0989?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  📍 Los Angeles, CA &nbsp;·&nbsp;
+  ✉️ harshmangukiya5005@gmail.com &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harsh-mangukiya-5b8737208/">LinkedIn</a> &nbsp;
+</p>
 
-<!--
-**harsh0989/harsh0989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+- Deep-diving into ML, NLP & multi-agent AI systems at USC
+- Building full-stack apps with React, Next.js and Node.js
+- Exploring LLM fine-tuning and real-world AI deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages**
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b07219?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e38c00?style=flat&logo=postgresql&logoColor=white)
+
+**Web**
+![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+**ML & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-e38c00?style=flat&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat&logo=couchbase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| **Tender e-Procurement Portal** <br> ![](https://img.shields.io/badge/🥇Winner-Smart_India_Hackathon_2022-2ea44f?style=flat-square) | ML + blockchain platform automating **90%** of govt. procurement. Beat **10,000+** participants. | ![](https://img.shields.io/badge/XGBoost-F7931E?style=flat-square) ![](https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square) ![](https://img.shields.io/badge/Blockchain-121D33?style=flat-square) |
+| **OncoPilot** <br> ![](https://img.shields.io/badge/💼_Production-i3_Digital_Health-0078D4?style=flat-square) | Clinical decision-support tool indexing **60+ cancer types**, genes & drugs for oncologist workflows. | ![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Network Attack Detector** <br> ![](https://img.shields.io/badge/🥉SPIT_Hackathon_2023-E87722?style=flat-square) | Real-time intrusion detection with **86% accuracy** across **10** distinct attack categories. | ![](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Isolation_Forest-3572A5?style=flat-square) ![](https://img.shields.io/badge/Autoencoders-3572A5?style=flat-square) |
+| **SafeStree** <br> ![](https://img.shields.io/badge/🥇Winner-TechnoHack_2022-2ea44f?style=flat-square) | Emergency response platform with real-time SOS & live location. Alert latency cut by **35%**. | ![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **IoT Water Generation Device** <br> ![](https://img.shields.io/badge/📄_Patent_Holder-CISCT_2023-7B2FBE?style=flat-square) | Atmospheric moisture extractor trained on **23,000+** data points across **29** Indian cities. | ![](https://img.shields.io/badge/IoT-000000?style=flat-square) ![](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Regression_ML-FF6F00?style=flat-square) |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://streak-stats.demolab.com?user=harsh0989&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-mangukiya-5b8737208/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshmangukiya5005@gmail.com)

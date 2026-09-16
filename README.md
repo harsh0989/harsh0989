@@ -80,11 +80,6 @@
 | **SafeStree** <br> ![](https://img.shields.io/badge/🥇Winner-TechnoHack_2022-2ea44f?style=flat-square) | Emergency response platform with real-time SOS & live location. Alert latency cut by **35%**. | ![](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 | **IoT Water Generation Device** <br> ![](https://img.shields.io/badge/📄_-CISCT_2023-7B2FBE?style=flat-square) | Atmospheric moisture extractor trained on **23,000+** data points across **29** Indian cities. | ![](https://img.shields.io/badge/IoT-000000?style=flat-square) ![](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Regression_ML-FF6F00?style=flat-square) |
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://streak-stats.demolab.com?user=harsh0989&theme=tokyonight&hide_border=true)
 
 ---
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Harsh Mangukiya 👋</h1>
 <p align="center">
- I'm a CS grad student at USC who builds things that actually ship. I'm currently seeking 2026 Summer Internship opportunities. I've taken ML pipelines from hackathon whiteboards to national wins, written the backend powering oncologist workflows across 60+ cancer types, and patented an IoT device that pulls drinking water out of thin air. I like hard problems, fast feedback loops, and code that means something.
+ I'm a CS grad student at USC who builds things that actually ship. I'm currently seeking full time opportunities. I've taken ML pipelines from hackathon whiteboards to national wins, written the backend powering oncologist workflows across 60+ cancer types, and patented an IoT device that pulls drinking water out of thin air. I like hard problems, fast feedback loops, and code that means something.
 </p>
 
 <div align="center">
